@@ -1,2 +1,2 @@
-low(#1): "red green blue"
+lower(#1): "red green blue"
 UPPER(#2): "RED GREEN BLUE"
